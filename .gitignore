@@ -1,0 +1,9 @@
+# 認証情報・APIキーは絶対に公開しない
+.env
+*.env
+.clasprc.json
+.clasp.json
+credentials*.json
+token*.json
+
+node_modules/
